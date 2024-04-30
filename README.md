@@ -29,6 +29,9 @@ https://github.com/nrmeenmohamed/todo_app/assets/128254998/e127dad8-95ba-4199-89
 - **flutter_launcher_icons**
 - **rename_app**
 
+## LinkedIn 
+https://www.linkedin.com/posts/nrmeen-sadek_hello-everyone-im-excited-to-share-the-activity-7160712007455760384-GTCP?utm_source=share&utm_medium=member_android
+
 
 ## Getting Started
 
